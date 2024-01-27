@@ -30,5 +30,4 @@ pip install numpy matplotlib cvxopt
 Open the Jupyter notebook to walk through the SVM implementation and examples:
 ```
 jupyter notebook SVM_From_Scratch.ipynb
-add dataset files 
 ```
